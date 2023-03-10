@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/felipe/lu_test/lu.cpp
+iostream
+-
+cmath
+-
+cstdlib
+-
+memory
+-
+numeric
+-
+algorithm
+-
+
+/home/felipe/lu_test/lu_test.cpp
+iostream
+-
+memory
+-
+cstdlib
+-
+gtest/gtest.h
+-
+lu.cpp
+/home/felipe/lu_test/lu.cpp
+matrix_product.cpp
+/home/felipe/lu_test/matrix_product.cpp
+
+/home/felipe/lu_test/matrix_product.cpp
+iostream
+-
+memory
+-
+cstdlib
+-
+

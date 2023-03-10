@@ -1,0 +1,3 @@
+/home/felipe/lu_test/CMakeFiles/rebuild_cache.dir
+/home/felipe/lu_test/CMakeFiles/edit_cache.dir
+/home/felipe/lu_test/CMakeFiles/executeTests.dir
